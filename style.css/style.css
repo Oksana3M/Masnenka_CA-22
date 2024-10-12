@@ -388,7 +388,7 @@ p {
 
 
 .bestsellers img {
-    max-height: 600px;
+    height: 600px;
 }
 
 .bestsellers {
